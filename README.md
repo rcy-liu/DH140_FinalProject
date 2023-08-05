@@ -15,6 +15,11 @@ Taylor Swift has long been known for her catchy choruses, motivational lyrics, a
 ##### Sentiment Analysis
 3. What is the overall sentiment of each song in Taylor Swift's *Reputation* album, and what is its relationship to the narrative of the album itself?
 
+### Blog
+
+To view the project in a blog format, click [here](https://rcy-liu.github.io/DH140_FinalProject_Blog/posts/TaylorSwift.html)
+To view the blog repoistory, click [here](https://github.com/rcy-liu/DH140_FinalProject_Blog.git)
+
 
 ### Binder
 To launch a binder and be taken into an interactive Jupyter environment, click [here](https://mybinder.org/v2/gh/rcy-liu/DH140_FinalProject.git/main)
