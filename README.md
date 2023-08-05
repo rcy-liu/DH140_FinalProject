@@ -18,6 +18,7 @@ Taylor Swift has long been known for her catchy choruses, motivational lyrics, a
 ### Blog
 
 To view the project in a blog format, click [here](https://rcy-liu.github.io/DH140_FinalProject_Blog/posts/TaylorSwift.html)
+
 To view the blog repoistory, click [here](https://github.com/rcy-liu/DH140_FinalProject_Blog.git)
 
 
